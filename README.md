@@ -9,8 +9,7 @@ bcl2fastq \
     -w <write_threads> \
     -r <read_threads> \
     --use-bases-mask <basemask-format-string> \
-    --create-fastq-for-index-reads <?> 
-
+    --create-fastq-for-index-reads <?>
 ```
 
 28M22S10B10B50T == picard read structure format string.
