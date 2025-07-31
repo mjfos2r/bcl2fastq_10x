@@ -1,5 +1,0 @@
-version: 1.2
-workflows:
-- name: bcl2fastq_10x
-  subclass: wdl
-  primaryDescriptorPath: /wdls/bcl2fastq_10x.wdl
